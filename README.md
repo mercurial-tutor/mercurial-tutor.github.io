@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/mercurial-tutor.github.io/images/moon.png">
 <link rel="shortcut icon" sizes="32x32" href="/mercurial-tutor.github.io/images/moon.png">
 
-# learn computer science 1:1
+# computer science 1:1 tutoring
 
 ---
 
