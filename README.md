@@ -1,8 +1,8 @@
-# learn to code 1:1
+# learn computer science 1:1
 
 ---
 
-Python, Go, & Java tutoring. Looking for weekly two-hour, semester-long commitments. Remote EST or in-person NYC.
+Python, Go, & Java tutoring. Looking for weekly two-hour, semester-long commitments. Remote in Eastern Standard Time (EST) or in-person NYC.
 
 ### Undergraduate Computer Science
 <p></p>
