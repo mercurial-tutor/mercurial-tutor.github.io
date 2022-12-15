@@ -17,7 +17,6 @@ Are you a high school upperclassman studying for a 4 or 5 on [AP Computer Scienc
 Looking for remote work? Let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems.
 Excited to work with professionals or people looking to become professionals!
 
-#### Rates & Contact
-Rates starting at $80/hr.  
+**Rates starting at $80/hr.**  
 <mercurial.tutor@gmail.com>  
 +1.929.483.2996
