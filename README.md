@@ -2,7 +2,7 @@
 
 ---
 
-Python, Go, & Java programming. *Looking for weekly two-hour, semester-long commitments.*  
+Python, Go, & Java programming. *Looking for weekly two-hour, semester-long commitments.* 
 Available on weeknights and weekends; remote in Eastern Standard Time (EST) or in-person NYC.
 
 ### Undergraduate Computer Science
@@ -22,5 +22,5 @@ Looking for remote work? Let's practice [hackerrank.com](https://www.hackerrank.
 Excited to work with professionals or people looking to become professionals!
 
 rates starting at $80/hr  
-contact <mercurial.tutor@gmail.com> for more information  
+<mercurial.tutor@gmail.com>  
 +1.929.483.2996
