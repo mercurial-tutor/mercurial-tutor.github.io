@@ -19,8 +19,8 @@ I'm excited to work with professionals or people looking to become professionals
 * Interview Essentials
 * Python, Go, Java Programming
 
-##### rates & contact
-Rates starting at $80/hr
+#### Rates & Contact
+rates starting at $80/hr
 github.com/mercurial-tutor
 mercurial.tutor@gmail.com
 +1.929.483.2996
