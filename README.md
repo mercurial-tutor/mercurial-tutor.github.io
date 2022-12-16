@@ -30,7 +30,6 @@ high school upperclassman studying for 4 or 5 on [AP Computer Science](https://a
 ### ‍💼 Interview Preparation 🧙
 
 looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems.
-excited to work with fellow professionals or people on the road to professional!
 
 **rates starting at $80/hr**  
 **<mercurial.tutor@gmail.com>**  
