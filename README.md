@@ -25,7 +25,7 @@ body {
 `- AP computer science A (Java)`  
 `- AP computer science principles`
 
-## ‍💼 `interviews` 🧙
+## ‍💼 `interview prep` 🧙
 
 `looking for remote work? let's practice` [hackerrank.com](https://www.hackerrank.com) `or` [leetcode.com](https://leetcode.com) `problems together!`
 
