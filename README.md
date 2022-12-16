@@ -10,12 +10,12 @@ body {
 
 ---
 
-Python, Go, & Java programming. *weekly two hour, semester-long commitments.* 
+Python, Go, & Java tutoring. *weekly two-hour, semester commitments.* 
 available on weeknights and weekends; remote in Eastern Standard Time (EST) or in-person NYC.
 
 ### 🏛️ undergraduate computer science ‍🎓
 
-need help with assignments or studying for undergraduate exams?
+need help with undergraduate assignments or studying for exams?
 - Introduction to Computer Science
 - Data Structures
 - Algorithms
@@ -28,7 +28,7 @@ high school upperclassman studying for 4 or 5 on [AP Computer Science](https://a
 
 ### ‍💼 interview preparation 🧙
 
-looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems.
+looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems together.
 
 **starting at $80/hr**  
 **<mercurial.tutor@gmail.com>**  
