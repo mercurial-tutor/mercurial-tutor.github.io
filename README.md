@@ -2,6 +2,9 @@
     <link rel="icon" type="image/png" href="images/shooting-star.png">
 </head>
 <style>
+h1 {
+    font-size: 40px;
+}
 body {
     background-image: url('images/quality-watercolor.jpg');
     background-repeat: no-repeat;
