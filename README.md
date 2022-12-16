@@ -7,7 +7,7 @@ h1 {
     font-size: 25px;
 }
 body {
-    background-image: url('images/gold-frame.jpg');
+    background-image: url('images/watercolor.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1050px 1050px;
