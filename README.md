@@ -14,14 +14,14 @@ body {
 
 ## 🏛️ `undergraduate computer science` ‍🎓
 
-`need help with undergraduate assignments or studying for exams?`
+`need help with undergraduate assignments or studying for exams?`  
 `- introduction to computer science`  
 `- data structures`  
 `- algorithms`
 
 ## 🏫 `AP computer science` 🏡
 
-`high school upperclassman studying for 4 or 5 on` [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) `exams?`
+`high school upperclassman studying for 4 or 5 on` [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) `exams?`  
 `- AP computer science A (Java)`  
 `- AP computer science principles`
 
