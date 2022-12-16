@@ -32,4 +32,4 @@ looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.
 
 **starting at $80/hr**  
 **<mercurial.tutor@gmail.com>**  
-**<+1.929.483.2996>**
+**929.483.2996**
