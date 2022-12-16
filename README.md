@@ -7,7 +7,7 @@ h1 {
     font-size: 25px;
 }
 body {
-    background-image: url('images/quality-watercolor.jpg');
+    background-image: url('images/cloud-watercolor.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
