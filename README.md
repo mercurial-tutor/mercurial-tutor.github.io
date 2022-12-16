@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url('images/soft-watercolor.jpg');
+    background-image: url('images/da-vinci.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
