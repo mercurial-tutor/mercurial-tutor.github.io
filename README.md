@@ -1,5 +1,5 @@
 <head>
-    <link rel="icon" type="image/png" href="images/shooting-star.png">
+    <link rel="icon" type="image/ico" href="images/favicon.ico">
 </head>
 <style>
 h1 {
