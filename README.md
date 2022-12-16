@@ -30,6 +30,6 @@ high school upperclassman studying for 4 or 5 on [AP Computer Science](https://a
 
 looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems.
 
-**rates starting at $80/hr**  
+**starting at $80/hr**  
 **<mercurial.tutor@gmail.com>**  
 **+1.929.483.2996**
