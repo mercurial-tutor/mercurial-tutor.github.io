@@ -7,10 +7,10 @@ h1 {
     font-size: 25px;
 }
 body {
-    background-image: url('images/watercolor.png');
+    background-image: url('images/blue-watercolor.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1050px 1050px;
+    background-size: 1250px 1250px;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
