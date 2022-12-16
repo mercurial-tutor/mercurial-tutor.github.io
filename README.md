@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url('images/vibrant-watercolor.jpg');
+    background-image: url('images/soft-watercolor.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -20,12 +20,12 @@ need help with assignments or studying for undergraduate exams?
 - Data Structures
 - Algorithms
 
-> ### 🏫 AP Computer Science 🏡
+### 🏫 AP Computer Science 🏡
 
-    high school upperclassman studying for 4 or 5 on [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) exams?
-      - AP Computer Science A (Java)
-      - AP Computer Science Principles (Java)
-      - College Application Preparation
+high school upperclassman studying for 4 or 5 on [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) exams?
+- AP Computer Science A (Java)
+- AP Computer Science Principles (Java)
+- College Application Preparation
 
 ### ‍💼 Interview Preparation 🧙
 
