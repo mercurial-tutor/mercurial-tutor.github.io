@@ -7,10 +7,10 @@ h1 {
     font-size: 25px;
 }
 body {
-    background-image: url('images/gold-frame.jpg');
+    background-image: url('images/gold-watercolor.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 75% 50%;
+    background-size: 50% 75%;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
