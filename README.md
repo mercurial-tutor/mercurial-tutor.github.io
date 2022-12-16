@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url('images/green-watercolor.jpg');
+    background-image: url('images/sky-watercolor.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -13,21 +13,21 @@ body {
 Python, Go, & Java programming. *Looking for weekly two-hour, semester-long commitments.* 
 Available on weeknights and weekends; remote in Eastern Standard Time (EST) or in-person NYC.
 
-### 🏛️ Undergraduate Computer Science 🏛️
+### 🏛️ Undergraduate Computer Science ‍🎓
 
 need help with assignments or studying for undergraduate exams?
 - Introduction to Computer Science
 - Data Structures
 - Algorithms
 
-### 🏫 AP Computer Science 🏫
+### 🏫 AP Computer Science 🏡
 
 high school upperclassman studying for 4 or 5 on [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) exams?
 - AP Computer Science A (Java)
 - AP Computer Science Principles (Java)
 - College Application Preparation
 
-### ‍💼 Interview Preparation 💼
+### ‍💼 Interview Preparation 🧙
 
 looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems.
 excited to work with fellow professionals or people on the road to professional!
