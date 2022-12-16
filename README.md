@@ -3,7 +3,7 @@
 </head>
 <style>
 h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 body {
     background-image: url('images/quality-watercolor.jpg');
