@@ -10,7 +10,7 @@ body {
     background-image: url('images/watercolor-bg.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1250px 1250px;
+    background-size: 1450px 1450px;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
