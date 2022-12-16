@@ -2,7 +2,7 @@
 body {
     background-image: url('images/spring-watercolor.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 50%;
 }
 </style>
 
