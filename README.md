@@ -1,8 +1,8 @@
 <style>
 body {
-    background-image: url('images/spring-watercolor.jpg');
+    background-image: url('images/pastel-watercolor.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 50%;
+    background-size: 100% 100%;
 }
 </style>
 
