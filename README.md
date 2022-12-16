@@ -4,9 +4,6 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-html {
-    height: 100%
-}
 </style>
 
 # computer science 1:1
