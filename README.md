@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="images/shooting-star.png">
 <style>
 body {
     background-image: url('images/quality-watercolor.jpg');
