@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url('images/pastel-watercolor.jpg');
+    background-image: url('images/quality-watercolor.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
