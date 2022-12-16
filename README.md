@@ -1,3 +1,9 @@
+<style>
+body {
+  background-image: url('images/watercolor.jpg');
+}
+</style>
+
 # computer science 1:1
 
 ---
