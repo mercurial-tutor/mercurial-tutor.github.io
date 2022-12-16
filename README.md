@@ -26,7 +26,7 @@ high school upperclassman studying for 4 or 5 on [AP Computer Science](https://a
 - AP Computer Science A (Java)
 - AP Computer Science Principles
 
-### ‍💼 `interview preparation` 🧙
+### ‍💼 `interviews` 🧙
 
 looking for remote work? let's practice [hackerrank.com](https://www.hackerrank.com) or [leetcode.com](https://leetcode.com) problems together!
 
