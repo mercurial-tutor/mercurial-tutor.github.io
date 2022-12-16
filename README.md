@@ -7,7 +7,8 @@ h1 {
     font-size: 25px;
 }
 body {
-    background-image: url('images/gold-frame.jpg') no-repeat center center;
+    background-image: url('images/gold-frame.jpg');
+    background-repeat: no-repeat;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
