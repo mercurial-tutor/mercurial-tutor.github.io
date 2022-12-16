@@ -1,6 +1,11 @@
 <style>
 body {
-  background-image: url('images/watercolor.jpg');
+    background-image: url('images/watercolor.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+html {
+    height: 100%
 }
 </style>
 
