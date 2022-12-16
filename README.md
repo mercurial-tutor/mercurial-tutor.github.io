@@ -7,6 +7,9 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+a { 
+	font-family: Consolas,monaco,monospace; 
+}
 </style>
 
 # `computer science 1:1`
