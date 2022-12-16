@@ -10,7 +10,7 @@ body {
     background-image: url('images/gold-watercolor.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 50% 75%;
+    background-size: 150px 150px;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
