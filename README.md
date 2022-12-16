@@ -10,8 +10,8 @@ body {
 
 ---
 
-Python, Go, & Java programming. *Looking for weekly two-hour, semester-long commitments.* 
-Available on weeknights and weekends; remote in Eastern Standard Time (EST) or in-person NYC.
+Python, Go, & Java programming. *looking for weekly two-hour, semester-long commitments.* 
+available on weeknights and weekends; remote in Eastern Standard Time (EST) or in-person NYC.
 
 ### 🏛️ Undergraduate Computer Science ‍🎓
 
