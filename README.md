@@ -9,6 +9,8 @@ h1 {
 body {
     background-image: url('images/gold-frame.jpg');
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50% 50%;
 }
 a { 
 	font-family: Consolas,monaco,monospace; 
