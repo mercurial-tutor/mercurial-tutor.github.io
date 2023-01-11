@@ -26,19 +26,19 @@ a {
 ### 🏛️ `undergraduate computer science` ‍🎓
 
 `need help with undergraduate assignments or studying for exams?`  
-`- introduction to computer science`  
-`- data structures`  
-`- algorithms`
+`- Introduction to Computer Science`  
+`- Data Structures`  
+`- Algorithms`
 
 ### 🏫 `AP computer science` 🏡
 
 `high school upperclassman studying for 4 or 5 on` [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) `exams?`  
-`- AP computer science A (Java)`  
-`- AP computer science principles`
+`- AP Computer Science A (Java)`  
+`- AP Computer Science Principles`
 
 ### ‍💼 `interview prep` 🧙
 
-`looking for remote work? let's practice` [hackerrank.com](https://www.hackerrank.com) `or` [leetcode.com](https://leetcode.com) `problems together!`
+`looking for remote work? let's practice` [hackerrank](https://www.hackerrank.com) `or` [leetcode](https://leetcode.com) `problems together!`
 
 `starting at $80/hr`  
 <mercurial.tutor@gmail.com>  
