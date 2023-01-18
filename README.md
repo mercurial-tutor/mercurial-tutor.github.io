@@ -30,7 +30,7 @@ a {
 `- Data Structures`  
 `- Algorithms`
 
-### 🏫 `AP computer science` 💻
+### 🏫 `AP computer science` 🏡
 
 `high school upperclassman studying for a 4 or 5 on` [AP Computer Science](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam) `exams?`  
 `- AP Computer Science A (Java)`  
